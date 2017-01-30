@@ -1,0 +1,7 @@
+name: VillagerHeadhunting
+main: me.Arpolix.VillagerHeadhunting.Main
+version: 1.0
+author: Arpolix
+commands:
+  instance:
+    description: Don’t use this. dev purposes only (needs args)
